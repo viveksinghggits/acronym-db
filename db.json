@@ -9,5 +9,9 @@
  {
 	 "id":"TTYL",
 	 "value":"Talk To You Later"
+ },
+ {
+	 "id":"HATEOS",
+	 "value":"Hypermedia As The Engine Of Application State"
  }
 ]
