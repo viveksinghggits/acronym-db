@@ -1,11 +1,12 @@
-[{
-		"id": "ATM",
-		"value": ["At The Moment"]
-	},
-	{
-		"id": "TBH",
-		"value": "To Be Honest"
-	},
+[
+ {
+	"id": "ATM",
+	"value": ["At The Moment"]
+ },
+ {
+	"id": "TBH",
+	"value": "To Be Honest"
+ },
  {
 	 "id":"TTYL",
 	 "value":"Talk To You Later"
@@ -13,5 +14,17 @@
  {
 	 "id":"HATEOS",
 	 "value":"Hypermedia As The Engine Of Application State"
+ },
+ {
+	 "id":"AFAIU",
+	 "value":"As Far As I Understand"
+ },
+ {
+	 "id":"PTAL",
+	 "value":"Please Take a Look"
+ },
+ {
+	 "id":"AFAIK",
+	 "value":"As Far As I Know"
  }
 ]
