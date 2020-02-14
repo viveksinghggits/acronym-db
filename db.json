@@ -26,5 +26,13 @@
  {
 	 "id":"AFAIK",
 	 "value":"As Far As I Know"
- }
+ },
+{
+	"id":"LGTM",
+	"value":"Looks Good To Me"
+},
+{
+	"id":"AFAIR",
+	"value":"As Far As I Remember"
+}
 ]
